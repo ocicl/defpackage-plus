@@ -1,0 +1,10 @@
+* defpackage-plus
+
+DEFPACKAGE-PLUS is an *extensible* DEFPACKAGE variant with version
+support.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/rpav/defpackage-plus.git |
+| commit  | 5492e27                                         |
+| systems | defpackage-plus                                 |
+|---------+-------------------------------------------------|
